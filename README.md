@@ -7,7 +7,7 @@
 <p>El menu principal cuenta con cuatro opciones, las cuales son las siguientes:</p>
 
 <ul>
-  Aplicar una función de dispersión al archivo antes mencionado, para generar la dirección base y acomodar los registros en su dirección.
+  <li>Aplicar una función de dispersión al archivo antes mencionado, para generar la dirección base y acomodar los registros en su dirección.</li>
   <li>Mostrar los registros en su respectiva dirección generada.</li>
   <li>Guardar en un archivo diferente el número de veces que una dirección fue generada, es decir, cuantas veces una misma dirección tuvo coincidencia con distinto número de placas y mostrarlo en pantalla.</li>
   <li>Finalmente, la opción de salir.</li>
