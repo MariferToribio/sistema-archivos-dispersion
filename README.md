@@ -3,7 +3,7 @@
 <h3>Sistema que organiza la información de todos los propietarios de un vehículo.</h3>
 
 
-<p>El programa lee de un archivo los registros de la informacion de los propiedarores. Separando cada campo con una barra vertical (|).</p>
+<p>El programa lee de un archivo los registros de la informacion de los propiedarores. Cada campo está separado por una barra vertical (|).</p>
 <p>El menu principal cuenta con cuatro opciones, las cuales son las siguientes:</p>
 
 <ul>
